@@ -1,5 +1,5 @@
-# CS152 Sept. 2, 2019 Unit 3-2
-# David Morris
+# Sept. 2, 2019 
+# Author: David Morris
 # Modified program by creating functions to remove repeating code
 #   Draws 3 sets of shapes of varying lengths
 #   Draw a rectangle
